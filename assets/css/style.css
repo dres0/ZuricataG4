@@ -1,0 +1,20 @@
+:root{
+    --white: #fff;
+    --pink:  #e83e8c;
+    --info:  #17a2b8;
+    --black: #212529;
+
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: var(--white);
+}
+footer{
+    background-color: var(--pink);
+}
+/* 
+BLOCK ELEMENT MODIFIER
+nav--img__modifier */
+.nav--img{
+    height: 2rem;
+}
